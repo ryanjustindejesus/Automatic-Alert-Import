@@ -1,12 +1,12 @@
 <h1>Automatic Alert Import</h1>
 
-- <b>This tutorial outlines the configuration </b>
+- <b>This tutorial outlines the configuration of Microsoft Sentinel incidents and importing custom rule queries</b>
 
 <h2>Environments and Technologies Used</h2>
 
 - <b>Microsoft Azure</b> 
-- <b>Description</b>
-- <b>Description</b>
+- <b>Microsoft Sentinel</b>
+- <b>Log Analytics Workspace</b>
 - <b>Description</b>
 - <b>Description</b>
 
